@@ -1,0 +1,16 @@
+torch
+torchvision
+transformers
+modelscope
+TensorFlow==2.9.1
+keras==2.9.0
+git+https://github.com/openai/CLIP.git
+opencv-python
+matplotlib
+pycocotools
+timm
+SentencePiece
+tf_slim
+tf_keras
+pyclipper
+shapely
